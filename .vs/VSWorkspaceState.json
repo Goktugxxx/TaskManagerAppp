@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Interfaces",
+    "\\Migrations",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net8.0",
+    "\\obj\\Debug\\net8.0\\refint",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\bin\\Debug",
+  "PreviewInSolutionExplorer": false
+}
